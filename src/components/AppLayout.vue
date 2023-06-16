@@ -21,7 +21,7 @@
           inactive-text="DE"
         />
         <RouterLink to="/random"
-          ><el-button class="btn" @click="getRandomCocktail">{{
+          ><el-button class="btn-random-cocktail" @click="getRandomCocktail">{{
             $t("button")
           }}</el-button></RouterLink
         >
@@ -83,7 +83,7 @@ const props = defineProps({
     position: relative
     width: 50%
 
-.btn
+.btn-random-cocktail
     position: absolute
     font-size: 14px
     font-family: 'Raleway', 'Arial', sans-sarif
