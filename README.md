@@ -1,6 +1,19 @@
-# vue-coctail-app
+# Cocktail Application
 
-This template should help get you started developing with Vue 3 in Vite.
+For this project you can use API Methods using developer test key '1' as the API key.
+
+All API Methods are at: https://www.thecocktaildb.com/api.php
+
+In my case i have used API calls from:
+'List the ingredients',
+'Search by ingredient',
+'Lookup full cocktail details by id',
+'Lookup a random cocktail',
+'Ingredient Thumbnails'
+
+# Vue 3 + Vite / Composition API
+
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 <script setup> SFCs
 
 ## Recommended IDE Setup
 
