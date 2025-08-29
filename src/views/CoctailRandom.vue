@@ -32,7 +32,7 @@
         </div>
         <div class="category">Category: {{ cocktail?.strCategory }}</div>
         <div class="instructions">
-          {{ cocktail?.strInstructions }}
+          {{ cocktailInstructions }}
         </div>
       </div>
     </div>
@@ -48,6 +48,7 @@ import "swiper/scss";
 import "swiper/scss/scrollbar";
 import { ref, computed } from "vue";
 import { useRouter } from "vue-router";
+import { useI18n } from "vue-i18n";
 
 const cocktail = ref(null);
 
@@ -85,6 +86,16 @@ const ING_IMG_URL = import.meta.env.VITE_RANDOM_ING_IMG;
 function goBack() {
   router.go(-1);
 }
+
+const { locale } = useI18n({ useScope: "global" });
+
+const cocktailInstructions = computed(() =>
+  cocktail.value
+    ? cocktail.value[
+        "strInstructions" + (locale.value === "en" ? "" : locale.value.toUpperCase())
+      ] || cocktail.value.strInstructions || ""
+    : ""
+);
 
 getRandomCocktail();
 </script>

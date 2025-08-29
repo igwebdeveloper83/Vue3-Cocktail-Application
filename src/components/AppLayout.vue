@@ -12,6 +12,7 @@
           @click="backFunction"
         />
         <el-switch
+          v-if="showLangSwitch"
           v-model="sw"
           @change="switchL"
           class="switch"
@@ -62,6 +63,10 @@ const props = defineProps({
     type: Function,
     required: false,
   },
+  showLangSwitch: { 
+    type: Boolean, 
+    default: true ,
+  }
 });
 </script>
 
@@ -85,19 +90,19 @@ const props = defineProps({
 
 .btn-random-cocktail
     position: absolute
-    font-size: 14px
-    font-family: 'Raleway', 'Arial', sans-sarif
     top: 32px
     right: 40px
+    width: 220px
+    font-size: 14px
+    font-family: 'Raleway', 'Arial', sans-serif
     background-color: $accent
     border-color: $accent
     color: $text
-
+  
     &:hover,
     &:active
-        background-color: darken($accent, 10%)
-        border-color: darken($accent, 10%)
-
+      background-color: darken($accent, 10%)
+      border-color: darken($accent, 10%)
 .btns
     display: flex
     justify-content: space-between
@@ -113,5 +118,6 @@ const props = defineProps({
 
 .switch
   position: absolute
-  margin: 34px 0 0 85px
+  top: 35px
+  right: 600px
 </style>
