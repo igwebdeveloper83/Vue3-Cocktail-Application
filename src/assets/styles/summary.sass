@@ -36,13 +36,15 @@ a
 
 .list
     width: 560px
+    max-width: 100%
+    margin: 0 auto
     padding: 50px 0 80px
     text-align: left
 
     &-item
         position: relative
         margin-bottom: 20px
-        padding-left: 30px
+        padding-left: 34px
 
         &:last-child
             margin-bottom: 0
@@ -50,18 +52,37 @@ a
         &::before
             content: ""
             position: absolute
-            top: 50%
             left: 0
-            transform: translateY(-50%)
-            background: url('/src/assets/img/heart.png') no-repeat 50% 50%
-            width: 17px
-            height: 17px
-
+            top: 0.28em
+            width: 16px
+            height: 16px
+            background: url('@/assets/img/heart.png') no-repeat 50% 50%
+            background-size: 16px 16px
 .instructions
     width: 516px
+    max-width: 100%
     margin: 0 auto
     font-size: 20px
     line-height: 30px
     letter-spacing: 0.1em
     color: $textMuted
     padding-top: 30px
+
+@media (max-width: 768px)
+    .list
+        padding: 24px 16px 40px
+
+        &-item
+            padding-left: 120px
+            &::before
+                top: 0.25em
+                width: 14px
+                padding-left: 150px
+                height: 14px
+                background-size: 14px 14px
+
+    .instructions
+        width: 100%
+        padding: 0px 80px 0px 80px
+        font-size: 18px
+        line-height: 26px
