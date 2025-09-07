@@ -1,6 +1,6 @@
 <template>
   <div class="root">
-    <div :style="`background-image: url(${imgUrl})`" class="img"></div>
+    <div :style="`background-image: url(${coctail_img})`" class="img"></div>
     <div class="main">
       <div class="btns">
         <el-button
@@ -36,6 +36,8 @@
 import { Back } from "@element-plus/icons-vue";
 import { useI18n } from "vue-i18n";
 import { ref } from "vue";
+import coctail_img from '@/assets/img/cocktail_1.jpg';
+
 
 const { locale } = useI18n({ useScope: "global" });
 
