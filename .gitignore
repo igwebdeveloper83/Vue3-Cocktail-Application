@@ -26,4 +26,6 @@ coverage
 *.sln
 *.sw?
 node_modules
+.env
+.env.production
 __tests__/
