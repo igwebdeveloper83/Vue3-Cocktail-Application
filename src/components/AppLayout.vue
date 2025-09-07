@@ -144,6 +144,9 @@ const props = defineProps({
     flex-wrap: wrap
     gap: 12px
 
+  .back
+    margin: 4px 0 0 4px
+
   .btn-random-cocktail
     width: 100%              // breiter Button für Touch
     position: static

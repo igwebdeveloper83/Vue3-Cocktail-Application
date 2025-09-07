@@ -1,6 +1,6 @@
 <template>
   <AppLayout
-    :imgUrl = "hero"
+    :imgUrl = "cocktail_img"
     :backFunction="removeIngredient"
     :isBackButtonVisible="!!ingredient"
   >
@@ -51,7 +51,7 @@ import AppLayout from "../components/AppLayout.vue";
 import SelectedCoctails from "../components/SelectedCoctails.vue";
 import { useMainStore } from "@/stores/main";
 import { storeToRefs } from "pinia";
-import hero from '@/assets/img/cocktail_1.jpg';
+import cocktail_img from '@/assets/img/cocktail_1.jpg';
 
 
 const mainStore = useMainStore();
