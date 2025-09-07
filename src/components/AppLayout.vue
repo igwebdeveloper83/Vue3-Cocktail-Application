@@ -37,7 +37,7 @@ import { computed } from "vue";
 import { Back } from "@element-plus/icons-vue";
 import { useI18n } from "vue-i18n";
 import { ref } from "vue";
-import coctail_img from '@/img/cocktail_1.jpg';
+import coctail_img from '@/assets/img/cocktail_1.jpg';
 
 const bgUrl = computed(() => props.imgUrl || coctail_img); 
 
