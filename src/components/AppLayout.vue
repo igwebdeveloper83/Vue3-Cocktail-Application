@@ -98,7 +98,7 @@ const props = defineProps({
     position: absolute
     top: 32px
     right: 40px
-    width: 220px
+    width: 200px
     font-size: 14px
     font-family: 'Raleway', 'Arial', sans-serif
     background-color: $accent
@@ -148,7 +148,7 @@ const props = defineProps({
     margin: 4px 0 0 4px
 
   .btn-random-cocktail
-    width: 100%              // breiter Button für Touch
+    width: 200px              // breiter Button für Touch
     position: static
 
   .switch
