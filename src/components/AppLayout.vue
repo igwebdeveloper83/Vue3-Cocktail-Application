@@ -126,4 +126,28 @@ const props = defineProps({
   position: absolute
   top: 35px
   right: 600px
+
+  /* Tablet & kleiner (max 768px) */
+@media (max-width: 768px)
+  .root
+    flex-direction: column   // statt nebeneinander → untereinander
+
+  .img
+    width: 100%
+    height: 40vh             // statt 100vh, passt besser auf Mobile
+
+  .main
+    width: 100%
+    padding: 16px
+
+  .btns
+    flex-wrap: wrap
+    gap: 12px
+
+  .btn-random-cocktail
+    width: 100%              // breiter Button für Touch
+    position: static
+
+  .switch
+    position: static
 </style>
