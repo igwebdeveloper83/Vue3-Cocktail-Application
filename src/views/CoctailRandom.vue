@@ -115,4 +115,8 @@ getRandomCocktail();
 .name
   padding-top: 20px
   padding-bottom: 20px
+
+@media (min-width: 769px) and (max-width: 1199px)
+  .swiper
+      width: 280px
 </style>
