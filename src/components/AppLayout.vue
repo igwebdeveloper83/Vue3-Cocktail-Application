@@ -153,4 +153,12 @@ const props = defineProps({
 
   .switch
     position: static
+
+@media (min-width: 769px) and (max-width: 1199px)
+  .switch
+    position: absolute
+    margin: -5px -320px 0 -180px
+
+  .back
+    margin: 30px 0 0 14px  
 </style>
