@@ -23,6 +23,22 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Lizenzhinweise (Third-Party)
+
+Dieses Projekt verwendet folgende Open-Source-Bibliotheken:
+
+- Vue 3 — MIT • [Lizenz anzeigen](https://github.com/vuejs/core/blob/main/LICENSE)
+- Vue Router — MIT • [Lizenz anzeigen](https://github.com/vuejs/router/blob/main/LICENSE)
+- Pinia — MIT • [Lizenz anzeigen](https://github.com/vuejs/pinia/blob/v2/LICENSE)
+- Vue I18n — MIT • [Lizenz anzeigen](https://github.com/intlify/vue-i18n/blob/main/LICENSE)
+- Axios — MIT • [Lizenz anzeigen](https://github.com/axios/axios/blob/master/LICENSE)
+- Element Plus — MIT • [Lizenz anzeigen](https://github.com/element-plus/element-plus/blob/dev/LICENSE)
+- Swiper — MIT • [Lizenz anzeigen](https://github.com/nolimits4web/swiper/blob/master/LICENSE)
+- Sass (Dart Sass) — MIT • [Lizenz anzeigen](https://github.com/sass/dart-sass/blob/main/LICENSE)
+- Happy DOM — MIT • [Lizenz anzeigen](https://github.com/capricorn86/happy-dom/blob/master/LICENSE)
+
+Alle genannten Bibliotheken dürfen gemäß ihren jeweiligen Lizenzen verwendet, verändert und weiterverteilt werden. Die vollständigen Lizenztexte sind über die obigen Links abrufbar.
+
 ## Project Setup
 
 ```sh
