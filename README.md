@@ -30,7 +30,7 @@ Dieses Projekt verwendet folgende Open-Source-Bibliotheken:
 - Vue 3 — MIT • [Lizenz anzeigen](https://github.com/vuejs/core/blob/main/LICENSE)
 - Vue Router — MIT • [Lizenz anzeigen](https://github.com/vuejs/router/blob/main/LICENSE)
 - Pinia — MIT • [Lizenz anzeigen](https://github.com/vuejs/pinia/blob/v2/LICENSE)
-- Vue I18n — MIT • [Lizenz anzeigen](https://github.com/intlify/vue-i18n/blob/main/LICENSE)
+- Vue I18n — MIT • [Lizenz anzeigen](https://github.com/intlify/vue-i18n/blob/master/LICENSE)
 - Axios — MIT • [Lizenz anzeigen](https://github.com/axios/axios/blob/master/LICENSE)
 - Element Plus — MIT • [Lizenz anzeigen](https://github.com/element-plus/element-plus/blob/dev/LICENSE)
 - Swiper — MIT • [Lizenz anzeigen](https://github.com/nolimits4web/swiper/blob/master/LICENSE)
