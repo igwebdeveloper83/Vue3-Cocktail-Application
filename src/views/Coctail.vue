@@ -31,7 +31,7 @@ import AppLayout from "../components/AppLayout.vue";
 import { ref, computed } from "vue";
 import { useRoute, useRouter } from "vue-router";
 import { useI18n } from "vue-i18n";
-import axios from "axios";
+import { getCocktailById } from "@/services/cocktailService";
 
 const route = useRoute();
 const router = useRouter();
@@ -63,9 +63,7 @@ const ingredients = computed(() => {
 });
 
 async function getCocktail() {
-  const URL = import.meta.env.VITE_COCKTAIL_BY_ID;
-  const response = await axios.get(`${URL}${coctailId.value}`);
-  cocktail.value = response?.data?.drinks?.[0] ?? null;
+  cocktail.value = await getCocktailById(coctailId.value);
 }
 
 function goBack() {

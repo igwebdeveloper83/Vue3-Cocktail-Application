@@ -1,0 +1,45 @@
+[
+  {
+    "idDrink": "1",
+    "strDrink": "Moscow Mule",
+    "strDrinkThumb": "/images/drinks/moscow-mule.jpg",
+
+    "strInstructions": "Fill a copper mug or highball glass with ice. Add vodka and lime juice, top with ginger beer and stir gently. Garnish with a lime wedge.",
+    "strInstructionsDE": "Ein Kupferbecher oder Highball-Glas mit Eis füllen. Wodka und Limettensaft hinzufügen, mit Ginger Beer auffüllen und vorsichtig umrühren. Mit einer Limettenspalte garnieren.",
+
+    "strIngredient1": "Vodka",
+    "strMeasure1": "50 ml",
+
+    "strIngredient2": "Lime Juice",
+    "strMeasure2": "15 ml",
+
+    "strIngredient3": "Ginger Beer",
+    "strMeasure3": "120 ml",
+
+    "strIngredient4": "Lime",
+    "strMeasure4": "1 Wedge",
+
+    "strIngredient5": "",
+    "strMeasure5": "",
+    "strIngredient6": "",
+    "strMeasure6": "",
+    "strIngredient7": "",
+    "strMeasure7": "",
+    "strIngredient8": "",
+    "strMeasure8": "",
+    "strIngredient9": "",
+    "strMeasure9": "",
+    "strIngredient10": "",
+    "strMeasure10": "",
+    "strIngredient11": "",
+    "strMeasure11": "",
+    "strIngredient12": "",
+    "strMeasure12": "",
+    "strIngredient13": "",
+    "strMeasure13": "",
+    "strIngredient14": "",
+    "strMeasure14": "",
+    "strIngredient15": "",
+    "strMeasure15": ""
+  }
+]

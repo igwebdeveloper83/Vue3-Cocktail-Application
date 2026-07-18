@@ -62,6 +62,12 @@ const { ingredients, ingredient, coctails } = storeToRefs(mainStore);
 function removeIngredient() {
   mainStore.setIngredient(null);
 }
+
+import { getAllCocktails } from "@/services/cocktailService";
+
+getAllCocktails().then(data => {
+  console.log(data);
+});
 </script>
 
 <style lang="sass" scoped>
