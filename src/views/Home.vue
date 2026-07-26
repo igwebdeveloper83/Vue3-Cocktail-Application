@@ -95,6 +95,7 @@ getAllCocktails().then(data => {
   align-items: center
   margin-top: 60px
   max-height: 400px
+  max-width: 520px
   overflow-y: auto
   flex-wrap: wrap
 
