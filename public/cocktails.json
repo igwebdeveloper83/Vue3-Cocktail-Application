@@ -1,0 +1,978 @@
+[
+  {
+    "idDrink": "1",
+    "strDrink": "Moscow Mule",
+    "strDrinkThumb": "/img/drinks/moscow-mule.jpg",
+
+    "strInstructions": "Fill a copper mug or highball glass with ice. Add vodka and lime juice, top with ginger beer and stir gently. Garnish with a lime wedge.",
+    "strInstructionsDE": "Ein Kupferbecher oder Highball-Glas mit Eis füllen. Wodka und Limettensaft hinzufügen, mit Ginger Beer auffüllen und vorsichtig umrühren. Mit einer Limettenspalte garnieren.",
+
+    "strIngredient1": "Vodka",
+    "strMeasure1": "50 ml",
+
+    "strIngredient2": "Lime Juice",
+    "strMeasure2": "15 ml",
+
+    "strIngredient3": "Ginger Beer",
+    "strMeasure3": "120 ml",
+
+    "strIngredient4": "Lime",
+    "strMeasure4": "1 Wedge"
+  },
+
+  {
+  "idDrink": "2",
+  "strDrink": "Bloody Mary",
+  "strDrinkThumb": "/img/drinks/bloody-mary.png",
+
+  "strInstructions": "Fill a highball glass with ice. Add vodka, tomato juice, lemon juice and the seasonings. Stir gently until well combined. Garnish with a celery stalk and a lemon wedge before serving.",
+
+  "strInstructionsDE": "Ein Highball-Glas mit Eis füllen. Wodka, Tomatensaft, Zitronensaft und die Gewürze hinzufügen. Alles vorsichtig verrühren, bis sich die Zutaten gut vermischt haben. Mit einer Selleriestange und einer Zitronenspalte garnieren und servieren.",
+
+  "strIngredient1": "Vodka",
+  "strMeasure1": "45 ml",
+
+  "strIngredient2": "Tomato Juice",
+  "strMeasure2": "90 ml",
+
+  "strIngredient3": "Lemon Juice",
+  "strMeasure3": "15 ml",
+
+  "strIngredient4": "Worcestershire Sauce",
+  "strMeasure4": "2 dashes",
+
+  "strIngredient5": "Tabasco",
+  "strMeasure5": "2 dashes",
+
+  "strIngredient6": "Salt",
+  "strMeasure6": "1 pinch",
+
+  "strIngredient7": "Black Pepper",
+  "strMeasure7": "1 pinch",
+
+  "strIngredient8": "Celery",
+  "strMeasure8": "1 stalk"
+},
+
+{
+  "idDrink": "3",
+  "strDrink": "Negroni",
+  "strDrinkThumb": "/img/drinks/negroni.jpg",
+
+  "strInstructions": "Fill a mixing glass with ice. Add gin, Campari and sweet vermouth in equal parts. Stir until well chilled, then strain into a rocks glass over fresh ice. Garnish with an orange peel.",
+
+  "strInstructionsDE": "Ein Rührglas mit Eis füllen. Gin, Campari und roten Wermut zu gleichen Teilen hineingeben. Gut verrühren, bis der Drink gekühlt ist. Anschließend in ein Tumblerglas mit frischem Eis abseihen und mit einer Orangenzeste garnieren.",
+
+  "strIngredient1": "Gin",
+  "strMeasure1": "30 ml",
+
+  "strIngredient2": "Campari",
+  "strMeasure2": "30 ml",
+
+  "strIngredient3": "Sweet Vermouth",
+  "strMeasure3": "30 ml",
+
+  "strIngredient4": "Orange Peel",
+  "strMeasure4": "1 piece"
+},
+
+{
+  "idDrink": "4",
+  "strDrink": "Tom Collins",
+  "strDrinkThumb": "/img/drinks/tom-collins.jpg",
+
+  "strInstructions": "Fill a highball glass with ice. Add gin, freshly squeezed lemon juice and simple syrup. Stir gently, top with soda water and garnish with a lemon slice.",
+
+  "strInstructionsDE": "Ein Highball-Glas mit Eis füllen. Gin, frisch gepressten Zitronensaft und Zuckersirup hinzufügen. Vorsichtig verrühren, mit Sodawasser auffüllen und mit einer Zitronenscheibe garnieren.",
+
+  "strIngredient1": "Gin",
+  "strMeasure1": "45 ml",
+
+  "strIngredient2": "Lemon Juice",
+  "strMeasure2": "30 ml",
+
+  "strIngredient3": "Simple Syrup",
+  "strMeasure3": "15 ml",
+
+  "strIngredient4": "Soda Water",
+  "strMeasure4": "Top up",
+
+  "strIngredient5": "Lemon Slice",
+  "strMeasure5": "1 slice"
+},
+
+{
+  "idDrink": "5",
+  "strDrink": "Mojito",
+  "strDrinkThumb": "/img/drinks/mojito.jpg",
+
+  "strInstructions": "Gently muddle the mint leaves with lime juice and simple syrup in a highball glass. Fill the glass with ice, pour in the white rum, top with soda water and stir gently. Garnish with fresh mint and a lime wedge.",
+
+  "strInstructionsDE": "Die Minzblätter zusammen mit Limettensaft und Zuckersirup vorsichtig in einem Highball-Glas andrücken. Das Glas mit Eis füllen, weißen Rum hinzufügen und mit Sodawasser auffüllen. Vorsichtig umrühren und mit frischer Minze sowie einer Limettenspalte garnieren.",
+
+  "strIngredient1": "White Rum",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Lime Juice",
+  "strMeasure2": "25 ml",
+
+  "strIngredient3": "Simple Syrup",
+  "strMeasure3": "15 ml",
+
+  "strIngredient4": "Soda Water",
+  "strMeasure4": "Top up",
+
+  "strIngredient5": "Mint",
+  "strMeasure5": "8 leaves",
+
+  "strIngredient6": "Lime Wedge",
+  "strMeasure6": "1 piece"
+},
+
+{
+  "idDrink": "6",
+  "strDrink": "Daiquiri",
+  "strDrinkThumb": "/img/drinks/daiquiri.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add white rum, freshly squeezed lime juice and simple syrup. Shake well until chilled, then strain into a chilled cocktail glass. Garnish with a lime wheel if desired.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Weißen Rum, frisch gepressten Limettensaft und Zuckersirup hinzufügen. Kräftig schütteln und anschließend in ein gut gekühltes Cocktailglas abseihen. Nach Belieben mit einer Limettenscheibe garnieren.",
+
+  "strIngredient1": "White Rum",
+  "strMeasure1": "60 ml",
+
+  "strIngredient2": "Lime Juice",
+  "strMeasure2": "25 ml",
+
+  "strIngredient3": "Simple Syrup",
+  "strMeasure3": "15 ml"
+},
+
+{
+  "idDrink": "7",
+  "strDrink": "Cuba Libre",
+  "strDrinkThumb": "/img/drinks/cuba-libre.jpg",
+
+  "strInstructions": "Fill a highball glass with ice. Pour in the white rum and fresh lime juice. Top with cola and stir gently. Garnish with a lime wedge before serving.",
+
+  "strInstructionsDE": "Ein Highball-Glas mit Eis füllen. Weißen Rum und frisch gepressten Limettensaft hineingeben. Mit Cola auffüllen und vorsichtig umrühren. Mit einer Limettenspalte garnieren und servieren.",
+
+  "strIngredient1": "White Rum",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Cola",
+  "strMeasure2": "120 ml",
+
+  "strIngredient3": "Lime Juice",
+  "strMeasure3": "10 ml",
+
+  "strIngredient4": "Lime Wedge",
+  "strMeasure4": "1 piece"
+},
+
+{
+  "idDrink": "8",
+  "strDrink": "Piña Colada",
+  "strDrinkThumb": "/img/drinks/pina-colada.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add white rum, coconut cream and pineapple juice. Shake until smooth and chilled, then strain into a chilled hurricane glass. Garnish with a pineapple slice if desired.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Weißen Rum, Kokoscreme und Ananassaft hinzufügen. Kräftig schütteln und anschließend in ein gekühltes Hurricane-Glas abseihen. Nach Belieben mit einer Ananasscheibe garnieren.",
+
+  "strIngredient1": "White Rum",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Coconut Cream",
+  "strMeasure2": "30 ml",
+
+  "strIngredient3": "Pineapple Juice",
+  "strMeasure3": "90 ml",
+
+  "strIngredient4": "Pineapple Slice",
+  "strMeasure4": "1 slice"
+},
+
+{
+  "idDrink": "9",
+  "strDrink": "Mai Tai",
+  "strDrinkThumb": "/img/drinks/mai-tai.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add white rum, orange curaçao, fresh lime juice and orgeat syrup. Shake well and strain into a rocks glass filled with crushed ice. Garnish with fresh mint and a lime wheel.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Weißen Rum, Orangenlikör, frisch gepressten Limettensaft und Mandelsirup hinzufügen. Kräftig schütteln und in ein Tumblerglas mit Crushed Ice abseihen. Mit frischer Minze und einer Limettenscheibe garnieren.",
+
+  "strIngredient1": "White Rum",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Orange Curaçao",
+  "strMeasure2": "20 ml",
+
+  "strIngredient3": "Lime Juice",
+  "strMeasure3": "25 ml",
+
+  "strIngredient4": "Orgeat Syrup",
+  "strMeasure4": "15 ml",
+
+  "strIngredient5": "Mint",
+  "strMeasure5": "1 sprig"
+},
+
+{
+  "idDrink": "10",
+  "strDrink": "Planter's Punch",
+  "strDrinkThumb": "/img/drinks/planters-punch.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add white rum, fresh lime juice, simple syrup and grenadine. Shake well and strain into a tall glass filled with fresh ice. Top with a splash of soda water and garnish with an orange slice and a cherry.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Weißen Rum, frisch gepressten Limettensaft, Zuckersirup und Grenadine hinzufügen. Kräftig schütteln und in ein hohes Glas mit frischem Eis abseihen. Mit einem Schuss Sodawasser auffüllen und mit einer Orangenscheibe sowie einer Cocktailkirsche garnieren.",
+
+  "strIngredient1": "White Rum",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Lime Juice",
+  "strMeasure2": "20 ml",
+
+  "strIngredient3": "Simple Syrup",
+  "strMeasure3": "20 ml",
+
+  "strIngredient4": "Grenadine",
+  "strMeasure4": "15 ml",
+
+  "strIngredient5": "Soda Water",
+  "strMeasure5": "Top up",
+
+  "strIngredient6": "Orange Slice",
+  "strMeasure6": "1 slice",
+
+  "strIngredient7": "Cocktail Cherry",
+  "strMeasure7": "1 piece"
+},
+
+{
+  "idDrink": "11",
+  "strDrink": "Margarita",
+  "strDrinkThumb": "/img/drinks/margarita.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add tequila, orange liqueur and freshly squeezed lime juice. Shake well until chilled, then strain into a salt-rimmed cocktail glass. Garnish with a lime wheel before serving.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Tequila, Orangenlikör und frisch gepressten Limettensaft hinzufügen. Kräftig schütteln und anschließend in ein Cocktailglas mit Salzrand abseihen. Mit einer Limettenscheibe garnieren und servieren.",
+
+  "strIngredient1": "Tequila",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Triple Sec",
+  "strMeasure2": "25 ml",
+
+  "strIngredient3": "Lime Juice",
+  "strMeasure3": "25 ml",
+
+  "strIngredient4": "Salt",
+  "strMeasure4": "For the rim"
+},
+
+{
+  "idDrink": "12",
+  "strDrink": "Tequila Sunrise",
+  "strDrinkThumb": "/img/drinks/tequila-sunrise.jpg",
+
+  "strInstructions": "Fill a highball glass with ice. Add tequila and orange juice, then stir gently. Slowly pour the grenadine down the inside of the glass so it settles at the bottom, creating the signature sunrise effect. Garnish with an orange slice and a cocktail cherry.",
+
+  "strInstructionsDE": "Ein Highball-Glas mit Eis füllen. Tequila und Orangensaft hineingeben und vorsichtig verrühren. Die Grenadine langsam am Glasrand eingießen, sodass sie sich am Boden absetzt und der typische Sunrise-Effekt entsteht. Mit einer Orangenscheibe und einer Cocktailkirsche garnieren.",
+
+  "strIngredient1": "Tequila",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Orange Juice",
+  "strMeasure2": "120 ml",
+
+  "strIngredient3": "Grenadine",
+  "strMeasure3": "15 ml",
+
+  "strIngredient4": "Orange Slice",
+  "strMeasure4": "1 slice",
+
+  "strIngredient5": "Cocktail Cherry",
+  "strMeasure5": "1 piece"
+},
+
+{
+  "idDrink": "13",
+  "strDrink": "Paloma",
+  "strDrinkThumb": "/img/drinks/paloma.jpg",
+
+  "strInstructions": "Fill a highball glass with ice. Add tequila and freshly squeezed grapefruit juice, then top with soda water. Stir gently and garnish with a grapefruit wedge.",
+
+  "strInstructionsDE": "Ein Highball-Glas mit Eis füllen. Tequila und frisch gepressten Grapefruitsaft hinzufügen und mit Sodawasser auffüllen. Vorsichtig umrühren und mit einer Grapefruitspalte garnieren.",
+
+  "strIngredient1": "Tequila",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Grapefruit Juice",
+  "strMeasure2": "100 ml",
+
+  "strIngredient3": "Soda Water",
+  "strMeasure3": "Top up",
+
+  "strIngredient4": "Grapefruit Wedge",
+  "strMeasure4": "1 piece"
+},
+
+{
+  "idDrink": "14",
+  "strDrink": "Cosmopolitan",
+  "strDrinkThumb": "/img/drinks/cosmopolitan.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add vodka, triple sec, cranberry juice and freshly squeezed lime juice. Shake well until chilled, then strain into a chilled martini glass. Garnish with an orange peel.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Wodka, Triple Sec, Cranberrysaft und frisch gepressten Limettensaft hinzufügen. Kräftig schütteln und anschließend in ein gekühltes Martiniglas abseihen. Mit einer Orangenzeste garnieren.",
+
+  "strIngredient1": "Vodka",
+  "strMeasure1": "40 ml",
+
+  "strIngredient2": "Triple Sec",
+  "strMeasure2": "15 ml",
+
+  "strIngredient3": "Cranberry Juice",
+  "strMeasure3": "30 ml",
+
+  "strIngredient4": "Lime Juice",
+  "strMeasure4": "15 ml",
+
+  "strIngredient5": "Orange Peel",
+  "strMeasure5": "1 piece"
+},
+
+{
+  "idDrink": "15",
+  "strDrink": "White Russian",
+  "strDrinkThumb": "/img/drinks/white-russian.jpg",
+
+  "strInstructions": "Fill a rocks glass with ice. Pour in the vodka and coffee liqueur, then add the heavy cream. Stir gently before serving.",
+
+  "strInstructionsDE": "Ein Tumblerglas mit Eis füllen. Wodka und Kaffeelikör hineingeben, anschließend die Sahne hinzufügen. Vorsichtig umrühren und servieren.",
+
+  "strIngredient1": "Vodka",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Coffee Liqueur",
+  "strMeasure2": "20 ml",
+
+  "strIngredient3": "Heavy Cream",
+  "strMeasure3": "30 ml"
+},
+
+{
+  "idDrink": "16",
+  "strDrink": "Black Russian",
+  "strDrinkThumb": "/img/drinks/black-russian.jpg",
+
+  "strInstructions": "Fill a rocks glass with ice. Pour in the vodka and coffee liqueur, then stir gently until well chilled. Serve without cream.",
+
+  "strInstructionsDE": "Ein Tumblerglas mit Eis füllen. Wodka und Kaffeelikör hineingeben und vorsichtig verrühren, bis der Cocktail gut gekühlt ist. Ohne Sahne servieren.",
+
+  "strIngredient1": "Vodka",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Coffee Liqueur",
+  "strMeasure2": "20 ml"
+},
+
+{
+  "idDrink": "17",
+  "strDrink": "Espresso Martini",
+  "strDrinkThumb": "/img/drinks/espresso-martini.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add vodka, coffee liqueur and freshly brewed espresso. Shake vigorously until well chilled and a creamy foam forms on top. Strain into a chilled martini glass and garnish with three coffee beans.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Wodka, Kaffeelikör und frisch gebrühten Espresso hinzufügen. Kräftig schütteln, bis der Cocktail gut gekühlt ist und sich eine feine Crema bildet. In ein gekühltes Martiniglas abseihen und mit drei Kaffeebohnen garnieren.",
+
+  "strIngredient1": "Vodka",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Coffee Liqueur",
+  "strMeasure2": "25 ml",
+
+  "strIngredient3": "Espresso",
+  "strMeasure3": "30 ml",
+
+  "strIngredient4": "Coffee Beans",
+  "strMeasure4": "3 beans"
+},
+
+{
+  "idDrink": "18",
+  "strDrink": "Screwdriver",
+  "strDrinkThumb": "/img/drinks/screwdriver.jpg",
+
+  "strInstructions": "Fill a highball glass with ice. Pour in the vodka and top with freshly chilled orange juice. Stir gently and garnish with an orange slice.",
+
+  "strInstructionsDE": "Ein Highball-Glas mit Eis füllen. Wodka hineingeben und mit gut gekühltem Orangensaft auffüllen. Vorsichtig umrühren und mit einer Orangenscheibe garnieren.",
+
+  "strIngredient1": "Vodka",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Orange Juice",
+  "strMeasure2": "120 ml",
+
+  "strIngredient3": "Orange Slice",
+  "strMeasure3": "1 slice"
+},
+
+{
+  "idDrink": "19",
+  "strDrink": "Sex on the Beach",
+  "strDrinkThumb": "/img/drinks/sex-on-the-beach.jpg",
+
+  "strInstructions": "Fill a highball glass with ice. Add vodka, peach schnapps, cranberry juice and orange juice. Stir gently until well combined and garnish with an orange slice.",
+
+  "strInstructionsDE": "Ein Highball-Glas mit Eis füllen. Wodka, Pfirsichlikör, Cranberrysaft und Orangensaft hinzufügen. Vorsichtig verrühren und mit einer Orangenscheibe garnieren.",
+
+  "strIngredient1": "Vodka",
+  "strMeasure1": "40 ml",
+
+  "strIngredient2": "Peach Schnapps",
+  "strMeasure2": "20 ml",
+
+  "strIngredient3": "Cranberry Juice",
+  "strMeasure3": "40 ml",
+
+  "strIngredient4": "Orange Juice",
+  "strMeasure4": "40 ml",
+
+  "strIngredient5": "Orange Slice",
+  "strMeasure5": "1 slice"
+},
+
+{
+  "idDrink": "20",
+  "strDrink": "Gin Fizz",
+  "strDrinkThumb": "/img/drinks/gin-fizz.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add gin, freshly squeezed lemon juice and simple syrup. Shake well and strain into a highball glass filled with ice. Top with soda water and stir gently. Garnish with a lemon slice.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Gin, frisch gepressten Zitronensaft und Zuckersirup hinzufügen. Kräftig schütteln und in ein Highball-Glas mit Eis abseihen. Mit Sodawasser auffüllen, vorsichtig umrühren und mit einer Zitronenscheibe garnieren.",
+
+  "strIngredient1": "Gin",
+  "strMeasure1": "45 ml",
+
+  "strIngredient2": "Lemon Juice",
+  "strMeasure2": "30 ml",
+
+  "strIngredient3": "Simple Syrup",
+  "strMeasure3": "15 ml",
+
+  "strIngredient4": "Soda Water",
+  "strMeasure4": "Top up",
+
+  "strIngredient5": "Lemon Slice",
+  "strMeasure5": "1 slice"
+},
+
+{
+  "idDrink": "21",
+  "strDrink": "Aviation",
+  "strDrinkThumb": "/img/drinks/aviation.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add gin, maraschino liqueur, crème de violette and freshly squeezed lemon juice. Shake well until chilled, then strain into a chilled cocktail glass. Garnish with a cocktail cherry.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Gin, Maraschinolikör, Crème de Violette und frisch gepressten Zitronensaft hinzufügen. Kräftig schütteln und anschließend in ein gekühltes Cocktailglas abseihen. Mit einer Cocktailkirsche garnieren.",
+
+  "strIngredient1": "Gin",
+  "strMeasure1": "45 ml",
+
+  "strIngredient2": "Maraschino Liqueur",
+  "strMeasure2": "15 ml",
+
+  "strIngredient3": "Crème de Violette",
+  "strMeasure3": "10 ml",
+
+  "strIngredient4": "Lemon Juice",
+  "strMeasure4": "15 ml",
+
+  "strIngredient5": "Cocktail Cherry",
+  "strMeasure5": "1 piece"
+},
+
+{
+  "idDrink": "22",
+  "strDrink": "Bee's Knees",
+  "strDrinkThumb": "/img/drinks/bees-knees.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add gin, freshly squeezed lemon juice and honey syrup. Shake well until chilled, then strain into a chilled cocktail glass. Garnish with a lemon twist.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Gin, frisch gepressten Zitronensaft und Honigsirup hinzufügen. Kräftig schütteln und anschließend in ein gekühltes Cocktailglas abseihen. Mit einer Zitronenzeste garnieren.",
+
+  "strIngredient1": "Gin",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Lemon Juice",
+  "strMeasure2": "25 ml",
+
+  "strIngredient3": "Honey Syrup",
+  "strMeasure3": "20 ml",
+
+  "strIngredient4": "Lemon Twist",
+  "strMeasure4": "1 piece"
+},
+
+{
+  "idDrink": "23",
+  "strDrink": "Singapore Sling",
+  "strDrinkThumb": "/img/drinks/singapore-sling.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add gin, cherry liqueur, Cointreau, Benedictine, pineapple juice, lime juice and grenadine. Shake well until chilled, then strain into a tall glass filled with ice. Top with a splash of soda water and garnish with a pineapple slice and a cocktail cherry.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Gin, Kirschlikör, Cointreau, Bénédictine, Ananassaft, Limettensaft und Grenadine hinzufügen. Kräftig schütteln und in ein hohes Glas mit Eis abseihen. Mit einem Schuss Sodawasser auffüllen und mit einer Ananasscheibe sowie einer Cocktailkirsche garnieren.",
+
+  "strIngredient1": "Gin",
+  "strMeasure1": "45 ml",
+
+  "strIngredient2": "Cherry Liqueur",
+  "strMeasure2": "15 ml",
+
+  "strIngredient3": "Cointreau",
+  "strMeasure3": "10 ml",
+
+  "strIngredient4": "Benedictine",
+  "strMeasure4": "10 ml",
+
+  "strIngredient5": "Pineapple Juice",
+  "strMeasure5": "120 ml",
+
+  "strIngredient6": "Lime Juice",
+  "strMeasure6": "15 ml",
+
+  "strIngredient7": "Grenadine",
+  "strMeasure7": "10 ml",
+
+  "strIngredient8": "Soda Water",
+  "strMeasure8": "Top up",
+
+  "strIngredient9": "Pineapple Slice",
+  "strMeasure9": "1 slice",
+
+  "strIngredient10": "Cocktail Cherry",
+  "strMeasure10": "1 piece"
+},
+
+{
+  "idDrink": "24",
+  "strDrink": "Clover Club",
+  "strDrinkThumb": "/img/drinks/clover-club.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add gin, raspberry syrup, freshly squeezed lemon juice and egg white. Shake vigorously, then shake again with ice until well chilled. Strain into a chilled cocktail glass and garnish with fresh raspberries.",
+
+  "strInstructionsDE": "Gin, Himbeersirup, frisch gepressten Zitronensaft und Eiweiß in einen Cocktailshaker geben. Zunächst ohne Eis kräftig schütteln, anschließend Eis hinzufügen und erneut gut schütteln. In ein gekühltes Cocktailglas abseihen und mit frischen Himbeeren garnieren.",
+
+  "strIngredient1": "Gin",
+  "strMeasure1": "45 ml",
+
+  "strIngredient2": "Raspberry Syrup",
+  "strMeasure2": "20 ml",
+
+  "strIngredient3": "Lemon Juice",
+  "strMeasure3": "20 ml",
+
+  "strIngredient4": "Egg White",
+  "strMeasure4": "1",
+
+  "strIngredient5": "Fresh Raspberries",
+  "strMeasure5": "3 pieces"
+},
+
+{
+  "idDrink": "25",
+  "strDrink": "Old Fashioned",
+  "strDrinkThumb": "/img/drinks/old-fashioned.jpg",
+
+  "strInstructions": "Fill a rocks glass with ice. Add bourbon, simple syrup and Angostura bitters. Stir well until chilled and garnish with an orange peel.",
+
+  "strInstructionsDE": "Ein Tumblerglas mit Eis füllen. Bourbon, Zuckersirup und Angostura Bitter hinzufügen. Gut verrühren, bis der Cocktail gekühlt ist, und mit einer Orangenzeste garnieren.",
+
+  "strIngredient1": "Whiskey/Bourbon",
+  "strMeasure1": "60 ml",
+
+  "strIngredient2": "Simple Syrup",
+  "strMeasure2": "10 ml",
+
+  "strIngredient3": "Angostura Bitters",
+  "strMeasure3": "2 dashes",
+
+  "strIngredient4": "Orange Peel",
+  "strMeasure4": "1 piece"
+},
+
+{
+  "idDrink": "26",
+  "strDrink": "Whiskey Sour",
+  "strDrinkThumb": "/img/drinks/whiskey-sour.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with bourbon, freshly squeezed lemon juice, simple syrup and egg white. Dry shake without ice, then add ice and shake again until well chilled. Strain into a rocks glass over fresh ice and garnish with a cocktail cherry and an orange slice.",
+
+  "strInstructionsDE": "Bourbon, frisch gepressten Zitronensaft, Zuckersirup und Eiweiß in einen Cocktailshaker geben. Zuerst ohne Eis kräftig schütteln, anschließend Eis hinzufügen und erneut gut schütteln. In ein Tumblerglas mit frischem Eis abseihen und mit einer Cocktailkirsche sowie einer Orangenscheibe garnieren.",
+
+  "strIngredient1": "Whiskey/Bourbon",
+  "strMeasure1": "60 ml",
+
+  "strIngredient2": "Lemon Juice",
+  "strMeasure2": "30 ml",
+
+  "strIngredient3": "Simple Syrup",
+  "strMeasure3": "20 ml",
+
+  "strIngredient4": "Egg White",
+  "strMeasure4": "1",
+
+  "strIngredient5": "Cocktail Cherry",
+  "strMeasure5": "1 piece",
+
+  "strIngredient6": "Orange Slice",
+  "strMeasure6": "1 slice"
+},
+
+{
+  "idDrink": "27",
+  "strDrink": "Manhattan",
+  "strDrinkThumb": "/img/drinks/manhattan.jpg",
+
+  "strInstructions": "Fill a mixing glass with ice. Add rye whiskey, sweet vermouth and Angostura bitters. Stir well until chilled, then strain into a chilled cocktail glass. Garnish with a cocktail cherry.",
+
+  "strInstructionsDE": "Ein Rührglas mit Eis füllen. Rye Whiskey, roten Wermut und Angostura Bitter hinzufügen. Gut verrühren und anschließend in ein gekühltes Cocktailglas abseihen. Mit einer Cocktailkirsche garnieren.",
+
+  "strIngredient1": "Whiskey/Bourbon",
+  "strMeasure1": "60 ml",
+
+  "strIngredient2": "Sweet Vermouth",
+  "strMeasure2": "30 ml",
+
+  "strIngredient3": "Angostura Bitters",
+  "strMeasure3": "2 dashes",
+
+  "strIngredient4": "Cocktail Cherry",
+  "strMeasure4": "1 piece"
+},
+
+{
+  "idDrink": "28",
+  "strDrink": "Mint Julep",
+  "strDrinkThumb": "/img/drinks/mint-julep.jpg",
+
+  "strInstructions": "Fill a julep cup or rocks glass with crushed ice. Add bourbon and simple syrup, then stir gently until chilled. Pack with more crushed ice, garnish generously with fresh mint and serve immediately.",
+
+  "strInstructionsDE": "Einen Julep-Becher oder ein Tumblerglas mit Crushed Ice füllen. Bourbon und Zuckersirup hinzufügen und vorsichtig verrühren. Mit weiterem Crushed Ice auffüllen, großzügig mit frischer Minze garnieren und sofort servieren.",
+
+  "strIngredient1": "Whiskey/Bourbon",
+  "strMeasure1": "60 ml",
+
+  "strIngredient2": "Simple Syrup",
+  "strMeasure2": "10 ml",
+
+  "strIngredient3": "Mint",
+  "strMeasure3": "8 leaves",
+
+  "strIngredient4": "Crushed Ice",
+  "strMeasure4": "As needed"
+},
+
+{
+  "idDrink": "30",
+  "strDrink": "Brandy Alexander",
+  "strDrinkThumb": "/img/drinks/brandy-alexander.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add cognac, dark crème de cacao and heavy cream. Shake well until chilled, then strain into a chilled cocktail glass. Garnish with freshly grated nutmeg.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Cognac, dunklen Crème de Cacao und Sahne hinzufügen. Kräftig schütteln und anschließend in ein gekühltes Cocktailglas abseihen. Mit frisch geriebener Muskatnuss garnieren.",
+
+  "strIngredient1": "Cognac/Brandy",
+  "strMeasure1": "40 ml",
+
+  "strIngredient2": "Dark Crème de Cacao",
+  "strMeasure2": "30 ml",
+
+  "strIngredient3": "Heavy Cream",
+  "strMeasure3": "30 ml",
+
+  "strIngredient4": "Nutmeg",
+  "strMeasure4": "A pinch"
+},
+
+{
+  "idDrink": "31",
+  "strDrink": "Between the Sheets",
+  "strDrinkThumb": "/img/drinks/between-the-sheets.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add cognac, white rum, triple sec and freshly squeezed lemon juice. Shake well until chilled, then strain into a chilled cocktail glass. Garnish with an orange twist.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Cognac, weißen Rum, Triple Sec und frisch gepressten Zitronensaft hinzufügen. Kräftig schütteln und anschließend in ein gekühltes Cocktailglas abseihen. Mit einer Orangenzeste garnieren.",
+
+  "strIngredient1": "Cognac/Brandy",
+  "strMeasure1": "30 ml",
+
+  "strIngredient2": "White Rum",
+  "strMeasure2": "30 ml",
+
+  "strIngredient3": "Triple Sec",
+  "strMeasure3": "30 ml",
+
+  "strIngredient4": "Lemon Juice",
+  "strMeasure4": "20 ml",
+
+  "strIngredient5": "Orange Twist",
+  "strMeasure5": "1 piece"
+},
+
+{
+  "idDrink": "32",
+  "strDrink": "Dark 'n' Stormy",
+  "strDrinkThumb": "/img/drinks/dark-n-stormy.jpg",
+
+  "strInstructions": "Fill a highball glass with ice. Pour in the dark rum and top with ginger beer. Add freshly squeezed lime juice and stir gently. Garnish with a lime wedge.",
+
+  "strInstructionsDE": "Ein Highball-Glas mit Eis füllen. Dunklen Rum hineingeben und mit Ginger Beer auffüllen. Frisch gepressten Limettensaft hinzufügen, vorsichtig umrühren und mit einer Limettenspalte garnieren.",
+
+  "strIngredient1": "Dark Rum",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Ginger Beer",
+  "strMeasure2": "120 ml",
+
+  "strIngredient3": "Lime Juice",
+  "strMeasure3": "15 ml",
+
+  "strIngredient4": "Lime Wedge",
+  "strMeasure4": "1 piece"
+},
+
+{
+  "idDrink": "33",
+  "strDrink": "Zombie",
+  "strDrinkThumb": "/img/drinks/zombie.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add dark rum, white rum, overproof rum, pineapple juice, orange juice, lime juice, grenadine and simple syrup. Shake well and strain into a tall glass filled with crushed ice. Garnish with fresh mint and a pineapple slice.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Dunklen Rum, weißen Rum, Overproof Rum, Ananassaft, Orangensaft, Limettensaft, Grenadine und Zuckersirup hinzufügen. Kräftig schütteln und in ein hohes Glas mit Crushed Ice abseihen. Mit frischer Minze und einer Ananasscheibe garnieren.",
+
+  "strIngredient1": "Dark Rum",
+  "strMeasure1": "30 ml",
+
+  "strIngredient2": "White Rum",
+  "strMeasure2": "30 ml",
+
+  "strIngredient3": "Overproof Rum",
+  "strMeasure3": "20 ml",
+
+  "strIngredient4": "Pineapple Juice",
+  "strMeasure4": "30 ml",
+
+  "strIngredient5": "Orange Juice",
+  "strMeasure5": "30 ml",
+
+  "strIngredient6": "Lime Juice",
+  "strMeasure6": "20 ml",
+
+  "strIngredient7": "Grenadine",
+  "strMeasure7": "10 ml",
+
+  "strIngredient8": "Simple Syrup",
+  "strMeasure8": "10 ml",
+
+  "strIngredient9": "Mint",
+  "strMeasure9": "1 sprig",
+
+  "strIngredient10": "Pineapple Slice",
+  "strMeasure10": "1 slice"
+},
+
+{
+  "idDrink": "34",
+  "strDrink": "Painkiller",
+  "strDrinkThumb": "/img/drinks/painkiller.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add dark rum, pineapple juice, orange juice and coconut cream. Shake well until smooth and chilled. Strain into a tall glass filled with crushed ice. Garnish with freshly grated nutmeg and a pineapple wedge.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Dunklen Rum, Ananassaft, Orangensaft und Kokoscreme hinzufügen. Kräftig schütteln und in ein hohes Glas mit Crushed Ice abseihen. Mit frisch geriebener Muskatnuss und einer Ananasspalte garnieren.",
+
+  "strIngredient1": "Dark Rum",
+  "strMeasure1": "60 ml",
+
+  "strIngredient2": "Pineapple Juice",
+  "strMeasure2": "120 ml",
+
+  "strIngredient3": "Orange Juice",
+  "strMeasure3": "30 ml",
+
+  "strIngredient4": "Coconut Cream",
+  "strMeasure4": "30 ml",
+
+  "strIngredient5": "Nutmeg",
+  "strMeasure5": "A pinch",
+
+  "strIngredient6": "Pineapple Wedge",
+  "strMeasure6": "1 piece"
+},
+
+{
+  "idDrink": "35",
+  "strDrink": "Bahama Mama",
+  "strDrinkThumb": "/img/drinks/bahama-mama.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add dark rum, coconut liqueur, coffee liqueur, pineapple juice and lemon juice. Shake well until chilled. Strain into a hurricane glass filled with ice and garnish with a pineapple slice and a cocktail cherry.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Dunklen Rum, Kokoslikör, Kaffeelikör, Ananassaft und Zitronensaft hinzufügen. Kräftig schütteln und in ein Hurricane-Glas mit Eis abseihen. Mit einer Ananasscheibe und einer Cocktailkirsche garnieren.",
+
+  "strIngredient1": "Dark Rum",
+  "strMeasure1": "40 ml",
+
+  "strIngredient2": "Coconut Liqueur",
+  "strMeasure2": "20 ml",
+
+  "strIngredient3": "Coffee Liqueur",
+  "strMeasure3": "15 ml",
+
+  "strIngredient4": "Pineapple Juice",
+  "strMeasure4": "60 ml",
+
+  "strIngredient5": "Lemon Juice",
+  "strMeasure5": "15 ml",
+
+  "strIngredient6": "Pineapple Slice",
+  "strMeasure6": "1 slice",
+
+  "strIngredient7": "Cocktail Cherry",
+  "strMeasure7": "1 piece"
+},
+
+{
+  "idDrink": "36",
+  "strDrink": "Long Island Iced Tea",
+  "strDrinkThumb": "/img/drinks/long-island-iced-tea.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add vodka, gin, white rum, tequila, triple sec, lemon juice and simple syrup. Shake briefly and strain into a tall glass filled with ice. Top with cola and garnish with a lemon wedge.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Wodka, Gin, weißen Rum, Tequila, Triple Sec, Zitronensaft und Zuckersirup hinzufügen. Kurz schütteln und in ein hohes Glas mit Eis abseihen. Mit Cola auffüllen und mit einer Zitronenspalte garnieren.",
+
+  "strIngredient1": "Vodka",
+  "strMeasure1": "15 ml",
+
+  "strIngredient2": "Gin",
+  "strMeasure2": "15 ml",
+
+  "strIngredient3": "White Rum",
+  "strMeasure3": "15 ml",
+
+  "strIngredient4": "Tequila",
+  "strMeasure4": "15 ml",
+
+  "strIngredient5": "Triple Sec",
+  "strMeasure5": "15 ml",
+
+  "strIngredient6": "Lemon Juice",
+  "strMeasure6": "25 ml",
+
+  "strIngredient7": "Simple Syrup",
+  "strMeasure7": "15 ml",
+
+  "strIngredient8": "Cola",
+  "strMeasure8": "Top up",
+
+  "strIngredient9": "Lemon Wedge",
+  "strMeasure9": "1 piece"
+},
+
+{
+  "idDrink": "37",
+  "strDrink": "El Diablo",
+  "strDrinkThumb": "/img/drinks/el-diablo.jpg",
+
+  "strInstructions": "Fill a highball glass with ice. Add tequila, crème de cassis and freshly squeezed lime juice. Top with ginger beer, stir gently and garnish with a lime wedge.",
+
+  "strInstructionsDE": "Ein Highball-Glas mit Eis füllen. Tequila, Crème de Cassis und frisch gepressten Limettensaft hinzufügen. Mit Ginger Beer auffüllen, vorsichtig umrühren und mit einer Limettenspalte garnieren.",
+
+  "strIngredient1": "Tequila",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "Crème de Cassis",
+  "strMeasure2": "15 ml",
+
+  "strIngredient3": "Lime Juice",
+  "strMeasure3": "20 ml",
+
+  "strIngredient4": "Ginger Beer",
+  "strMeasure4": "100 ml",
+
+  "strIngredient5": "Lime Wedge",
+  "strMeasure5": "1 piece"
+},
+
+{
+  "idDrink": "38",
+  "strDrink": "Tommy's Margarita",
+  "strDrinkThumb": "/img/drinks/tommys-margarita.jpg",
+
+  "strInstructions": "Fill a cocktail shaker with ice. Add tequila, freshly squeezed lime juice and agave syrup. Shake well until chilled, then strain into a rocks glass filled with fresh ice. Garnish with a lime wheel.",
+
+  "strInstructionsDE": "Einen Cocktailshaker mit Eis füllen. Tequila, frisch gepressten Limettensaft und Agavensirup hinzufügen. Kräftig schütteln und anschließend in ein Tumblerglas mit frischem Eis abseihen. Mit einer Limettenscheibe garnieren.",
+
+  "strIngredient1": "Tequila",
+  "strMeasure1": "60 ml",
+
+  "strIngredient2": "Lime Juice",
+  "strMeasure2": "30 ml",
+
+  "strIngredient3": "Agave Syrup",
+  "strMeasure3": "20 ml",
+
+  "strIngredient4": "Lime Wheel",
+  "strMeasure4": "1 piece"
+},
+
+{
+  "idDrink": "39",
+  "strDrink": "Stinger",
+  "strDrinkThumb": "/img/drinks/stinger.jpg",
+
+  "strInstructions": "Fill a mixing glass with ice. Add cognac and white crème de menthe. Stir well until chilled, then strain into a chilled cocktail glass. Garnish with a fresh mint sprig if desired.",
+
+  "strInstructionsDE": "Ein Rührglas mit Eis füllen. Cognac und weißen Crème de Menthe hinzufügen. Gut verrühren und anschließend in ein gekühltes Cocktailglas abseihen. Nach Belieben mit einem frischen Minzzweig garnieren.",
+
+  "strIngredient1": "Cognac/Brandy",
+  "strMeasure1": "50 ml",
+
+  "strIngredient2": "White Crème de Menthe",
+  "strMeasure2": "20 ml",
+
+  "strIngredient3": "Mint",
+  "strMeasure3": "1 sprig"
+},
+
+{
+  "idDrink": "40",
+  "strDrink": "Vieux Carré",
+  "strDrinkThumb": "/img/drinks/vieux-carre.jpg",
+
+  "strInstructions": "Fill a mixing glass with ice. Add cognac, rye whiskey, sweet vermouth, Benedictine and both bitters. Stir well until chilled, then strain into a rocks glass over fresh ice. Garnish with a lemon twist.",
+
+  "strInstructionsDE": "Ein Rührglas mit Eis füllen. Cognac, Rye Whiskey, roten Wermut, Bénédictine sowie Angostura- und Peychaud's Bitter hinzufügen. Gut verrühren und anschließend in ein Tumblerglas mit frischem Eis abseihen. Mit einer Zitronenzeste garnieren.",
+
+  "strIngredient1": "Cognac/Brandy",
+  "strMeasure1": "30 ml",
+
+  "strIngredient2": "Rye Whiskey",
+  "strMeasure2": "30 ml",
+
+  "strIngredient3": "Sweet Vermouth",
+  "strMeasure3": "30 ml",
+
+  "strIngredient4": "Benedictine",
+  "strMeasure4": "10 ml",
+
+  "strIngredient5": "Angostura Bitters",
+  "strMeasure5": "1 dash",
+
+  "strIngredient6": "Peychaud's Bitters",
+  "strMeasure6": "1 dash",
+
+  "strIngredient7": "Lemon Twist",
+  "strMeasure7": "1 piece"
+}
+]

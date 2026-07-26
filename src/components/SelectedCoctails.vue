@@ -1,10 +1,11 @@
 <template>
   <div class="root">
     <RouterLink :to="`/coctails/${coctail.idDrink}`">
-      <div
-        :style="`background-image: url(${coctail.strDrinkThumb})`"
+      <img
+        :src="coctail.strDrinkThumb"
+        :alt="coctail.strDrink"
         class="image"
-      ></div>
+      />    
     </RouterLink>
     <div class="name">{{ coctail.strDrink }}</div>
   </div>
@@ -21,8 +22,8 @@ const props = defineProps({
 @import '../assets/styles/main'
 
 .root
-    width: calc((100% - 76px)/3)
-    margin-right: 38px
+    width: calc((100% - 40px)/3)
+    margin-right: 20px
     padding-bottom: 20px
 
     &:nth-child(3n + 3)
@@ -30,18 +31,23 @@ const props = defineProps({
 
 
 .image
-    width: 120px
-    height: 120px
-    margin: 0 auto
-    background-repeat: no-repeat
-    background-position: 50% 50%
-    background-size: 100%
+    width: 90px
+    height: 90px
+    display: block
+    margin: 10px auto
+    object-fit: cover
+    object-position: center
+    border-radius: 10px
+    box-shadow: 0 0 25px rgba(255, 228, 170, .45)    
 
 .name
     width: 100%
+    padding-top: 10px
+    text-align: center
+    font-weight: 500
+    font-size: 15px
     white-space: nowrap
     overflow: hidden
     text-overflow: ellipsis
-    padding-top: 15px
-    letter-spacing: 0.1em
+    letter-spacing: 0.02em
 </style>
