@@ -34,7 +34,7 @@ const props = defineProps({
     width: 90px
     height: 90px
     display: block
-    margin: 0 auto
+    margin: 10px auto
     object-fit: cover
     object-position: center
     border-radius: 10px
