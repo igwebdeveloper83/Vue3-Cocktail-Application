@@ -113,7 +113,8 @@ getAllCocktails().then(data => {
 
 @media (max-width: 768px)
   .coctails
-    max-height: unset
+    max-height: none
+    overflow-y: visible
 
 
 /* Hide scrollbar for Chrome, Safari and Opera */
