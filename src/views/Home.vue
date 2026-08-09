@@ -99,12 +99,24 @@ getAllCocktails().then(data => {
   overflow-y: auto
   flex-wrap: wrap
 
-/* Hide scrollbar for Chrome, Safari and Opera */
-.coctails::-webkit-scrollbar
-    display: none
+.coctails::-webkit-scrollbar 
+  width: 4px
 
+
+.coctails::-webkit-scrollbar-thumb 
+  background: #bdbdbd
+  border-radius: 8px
+
+
+.coctails::-webkit-scrollbar-thumb:hover 
+  background: #999
+
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+//.coctails::-webkit-scrollbar
+   // display: none
 /* Hide scrollbar for IE, Edge and Firefox */
-.coctails
-  -ms-overflow-style: none
-  scrollbar-width: none
+//.coctails
+ // -ms-overflow-style: none
+  //scrollbar-width: none
 </style>
