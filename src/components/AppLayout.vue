@@ -81,11 +81,13 @@ const props = defineProps({
 .root
     display: flex
     min-height: 100vh
+    min-height: 100dvh
     background-color: $background
 
 .img
     width: 50%
     height: 100vh
+    height: 100dvh
     background-repeat: no-repeat
     background-position: 50% 50%
     background-size: cover
@@ -132,10 +134,11 @@ const props = defineProps({
   .root
     flex-direction: column   // statt nebeneinander → untereinander
     display: block
+    min-height: 100dvh
 
   .img
     width: 100%
-    height: 30vh             // statt 100vh, passt besser auf Mobile
+    height: 30dvh             // statt 100vh, passt besser auf Mobile
     min-height: 180px 
     max-height: 260px
 
