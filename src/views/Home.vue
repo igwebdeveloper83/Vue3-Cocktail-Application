@@ -94,7 +94,8 @@ getAllCocktails().then(data => {
   display: flex
   align-items: center
   margin-top: 60px
-  max-height: 400px
+  height: 400px
+  max-height: none
   max-width: 520px
   overflow-y: auto
   flex-wrap: wrap
@@ -106,6 +107,11 @@ getAllCocktails().then(data => {
 .coctails::-webkit-scrollbar-thumb 
   background: #bdbdbd
   border-radius: 8px
+
+@media (max-width: 768px)
+.coctails::-webkit-scrollbar 
+ display: none
+
 
 
 .coctails::-webkit-scrollbar-thumb:hover 

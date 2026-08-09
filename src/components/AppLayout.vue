@@ -135,17 +135,18 @@ const props = defineProps({
     flex-direction: column   // statt nebeneinander → untereinander
     display: block
     min-height: 100dvh
+    max-height: 100dvh
 
   .img
     width: 100%
     height: 30dvh             // statt 100vh, passt besser auf Mobile
     min-height: 180px 
-    max-height: 260px
+    max-height: 10px
 
   .main
     width: 100%
     padding: 12px
-
+    
   .btns
     flex-wrap: wrap
     gap: 12px
