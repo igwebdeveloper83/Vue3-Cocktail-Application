@@ -130,7 +130,7 @@ const props = defineProps({
   /* Tablet & kleiner (max 768px) */
 @media (max-width: 768px)
   .root
-    display: flex 
+    flex-direction: column   // statt nebeneinander → untereinander
 
   .img
     width: 100%
