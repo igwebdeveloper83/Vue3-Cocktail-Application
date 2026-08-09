@@ -111,12 +111,6 @@ getAllCocktails().then(data => {
 .coctails::-webkit-scrollbar-thumb:hover 
   background: #999
 
-@media (max-width: 768px)
-  .coctails
-    max-height: none
-    overflow-y: visible
-
-
 /* Hide scrollbar for Chrome, Safari and Opera */
 //.coctails::-webkit-scrollbar
    // display: none
