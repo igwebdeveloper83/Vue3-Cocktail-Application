@@ -133,7 +133,6 @@ const props = defineProps({
 @media (max-width: 768px)
   .root
     flex-direction: column   // statt nebeneinander → untereinander
-    display: block
     min-height: 100dvh
     max-height: 100dvh
 
