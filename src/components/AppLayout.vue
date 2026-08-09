@@ -130,15 +130,17 @@ const props = defineProps({
   /* Tablet & kleiner (max 768px) */
 @media (max-width: 768px)
   .root
-    flex-direction: column   // statt nebeneinander → untereinander
+    display: flex 
 
   .img
     width: 100%
-    height: 40vh             // statt 100vh, passt besser auf Mobile
+    height: 30vh             // statt 100vh, passt besser auf Mobile
+    min-height: 180px 
+    max-height: 260px
 
   .main
     width: 100%
-    padding: 16px
+    padding: 12px
 
   .btns
     flex-wrap: wrap

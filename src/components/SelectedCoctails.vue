@@ -38,8 +38,13 @@ const props = defineProps({
     object-fit: cover
     object-position: center
     border-radius: 10px
-    box-shadow: 0 0 25px rgba(255, 228, 170, .45)    
+    box-shadow: 0 0 25px rgba(255, 228, 170, .45)
+    cursor: pointer
+    transition: transform .2s ease, box-shadow .2s ease
 
+    &:hover
+        transform: scale(1.05)
+        box-shadow: 0 0 35px rgba(255, 228, 170, .65)
 .name
     width: 100%
     padding-top: 10px
