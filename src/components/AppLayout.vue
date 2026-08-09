@@ -86,12 +86,10 @@ const props = defineProps({
 
 .img
     width: 50%
-    height: 100vh
-    height: 100dvh
+    min-height: 100dvh
     background-repeat: no-repeat
-    background-position: 50% 50%
+    background-position: center
     background-size: cover
-
 .main
     position: relative
     width: 50%
